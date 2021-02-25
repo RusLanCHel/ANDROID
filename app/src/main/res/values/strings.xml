@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WatchFilmApp</string>
+    <string name="info">Описание</string>
+    <string name="year">Год</string>
+    <string name="name">Название</string>
+</resources>
